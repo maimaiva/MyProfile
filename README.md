@@ -1,37 +1,18 @@
-## Welcome to GitHub Pages
+## Hello! 
 
-You can use the [editor on GitHub](https://github.com/maimaiva/maimaiva.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+### Let's baked! 
+At least the pandemic gave you some skills! I personally love dessert and bakery stuffs, but the lockdown made life harder to go out!
+However, it's ok to make our own dishes! with healthier recipe ^^
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+_All recipe are in small proportion for one-two people.(Consume too much sugar is unhealthy)_ 
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
+How about easy cookies!
 ```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
+# These are ingredient
+1. Butter
+2. Sugar
 
 [Link](url) and ![Image](src)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/maimaiva/maimaiva.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
