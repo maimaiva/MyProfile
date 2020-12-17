@@ -1,7 +1,7 @@
 ### Chocolate Chip Cookies
 
 
-<img align="left" width="150" src="images/IMG_ChocolateChipCookies.jpg">
+<img width="250" src="images/IMG_ChocolateChipCookies.jpg">
 
 Most of cookies recipes are too sweet and too much for one-two people. 
 This recipe makes you feel less guilty and it is super easy to follow.
