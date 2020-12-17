@@ -43,6 +43,4 @@ Keep watching until it is brown.
 10. Enjoyed fresh baked cookies
 ```
 
-Enjoy!!!
-
 [Go Back](README.md)
