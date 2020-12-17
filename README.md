@@ -10,8 +10,8 @@ Machine Learning | Big Data | Finance
 
 
 ### My Portfolio 
-  1.
-  2.
+- aaaa
+- bbbb
 
 ### Experiences 
 Portfolio Management, Bangkok Bank <br/>
