@@ -10,7 +10,7 @@ You do the dishes less!!
 
 _This portion serves 3 cookies_
 ```markdown
-Required Equipments
+**Required Equipments**
 1. Measuring cups
 2. Little pot 
 3. Baking tray
@@ -18,7 +18,7 @@ Required Equipments
 ```
 
 ```markdown
-Here are ingredients
+**Here are ingredients**
 1. Butter 1/4 cups
 2. Brown Sugar 1/4 cups
 3. 1 large egg
@@ -28,7 +28,7 @@ Here are ingredients
 * Add some Vanilla is perfect, but I am going to skip that ^^
 ```
 ```markdown
-Secret Steps 
+**Secret Steps** 
 1. Browned the butter, browning your butter makes your cookies smell like heaven! 
 Set the stove at medium heat & gently heat and stir the butter in mixing pot. 
 Keep watching until it is brown.  
