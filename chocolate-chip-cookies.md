@@ -10,7 +10,7 @@ You do the dishes less!!
 
 _This portion serves 3 cookies_
 ```markdown
-*Required Equipments*
+**Required Equipments**
 1. Measuring cups
 2. Little pot 
 3. Baking tray
