@@ -1,6 +1,35 @@
-## Hello! 
+## Hello! It's me, Vanessa!
 
-### Let's baked! 
+<img align="left" width="350" src=images/IMG_1983.jpg> 
+
+### A little bit about me! 
+My name is Vanisa Achakulvisut & Nickname is Mai. <br/>
+The easiest way to call me here is "Vanessa"! <br/>
+My area of interest are <br/>
+Machine Learning | Big Data | Finance
+
+
+### My Portfolio 
+  1.
+  2.
+
+### Experiences 
+Portfolio Management, Bangkok Bank <br/>
+Process Engineer, TechnipFMC(Thailand) <br/>
+
+### Educations
+**M.S. in Business Analytics**, University of Illinois at Chicago. <br/>
+**Chemical Engineering**, Chulalongkorn University, Thailand. <br/>
+
+
+
+
+### Hobbies
+#### Let's baked! 
+#### Let's get some coffee! 
+#### 
+
+
 At least the pandemic gave you some skills! I personally love dessert and bakery stuffs, but the lockdown made life harder to go out!
 However, it's ok to make our own dishes! with healthier recipe ^^
 
