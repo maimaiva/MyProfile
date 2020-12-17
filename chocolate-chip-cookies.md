@@ -1,8 +1,5 @@
-<h1>Chocolate Chip Cookies<h1>
+Chocolate Chip Cookies
 
-@settings {
-  font-size: 100;
-}
 
 Let's make some chocolate-chip-cookies
 here is recipe
