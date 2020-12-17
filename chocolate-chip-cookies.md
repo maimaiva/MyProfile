@@ -29,7 +29,9 @@ Here are ingredients
 ```
 ```markdown
 Secret Steps 
-1. Browning the butter: browning your butter makes your cookies smell like heaven! Set the stove at medium heat & gently heat and stir the butter in mixing pot. Keep watching until it is brown.  
+1. Browning the butter: browning your butter makes your cookies smell like heaven! 
+Set the stove at medium heat & gently heat and stir the butter in mixing pot. 
+Keep watching until it is brown.  
 2. Added brown sugar and mix them well with spoon
 3. Added egg yolk and half of egg white
 4. Mixed them well again
