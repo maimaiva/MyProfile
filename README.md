@@ -1,6 +1,6 @@
 ## Hello! I'm Vanisa Achakulvisut!
 
-![](images/IMG_1983.jpg | width=300)
+![](images/IMG_1983.jpg width=”350”)
 
 
 ### A little bit about me! 
