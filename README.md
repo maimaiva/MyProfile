@@ -1,6 +1,6 @@
 ## Hello! I'm Vanisa Achakulvisut!
 
-<img src="images/IMG_1983.jpg" width="350">
+<align="center" img src="images/IMG_1983.jpg" width="350">
 
 ### A little bit about me! 
 My name is Vanisa Achakulvisut & Nickname is Mai. <br/>
