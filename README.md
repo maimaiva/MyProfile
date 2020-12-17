@@ -1,7 +1,10 @@
 ## Hello! It's me, Vanessa!
 
 <img align="left" width="350" src=images/IMG_1983.jpg> 
+
 ![](images/IMG_1983.jpg)
+
+
 ### A little bit about me! 
 My name is Vanisa Achakulvisut & Nickname is Mai. <br/>
 The easiest way to call me here is "Vanessa"! <br/>
