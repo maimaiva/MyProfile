@@ -1,8 +1,6 @@
-## Hello! It's me, Vanessa!
+## Hello! I'm Vanisa Achakulvisut!
 
-<img align="left" width="350" src=images/IMG_1983.jpg> 
-
-![](images/IMG_1983.jpg)
+![](images/IMG_1983.jpg width=300)
 
 
 ### A little bit about me! 
