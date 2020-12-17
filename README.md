@@ -23,15 +23,9 @@ Process Engineer, TechnipFMC(Thailand) <br/>
 **Chemical Engineering**, Chulalongkorn University, Thailand. <br/>
 
 
-
-
 ### Hobbies
 #### Let's baked! 
 [Chocolate Chip Cookies](chocolate-chip-cookies.md)
-#### Let's get some coffee! 
 
-
-
-
-
+### markdown guide 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
