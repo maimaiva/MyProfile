@@ -1,6 +1,6 @@
 <h1>Chocolate Chip Cookies<h1>
 
-###Let's make some chocolate-chip-cookies
+Let's make some chocolate-chip-cookies
 here is recipe
 
 At least the pandemic gave you some skills! I personally love dessert and bakery stuffs, but the lockdown made life harder to go out!
@@ -13,6 +13,5 @@ How about easy cookies!
 # These are ingredient
 1. Butter
 2. Sugar
-
-[Link](url) and ![Image](src)
 ```
+[Go Back](README.md)
