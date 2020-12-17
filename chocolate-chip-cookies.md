@@ -29,7 +29,7 @@ Here are ingredients
 ```
 ```markdown
 Secret Steps 
-1. Browning the butter: browning your butter makes your cookies smell like heaven! 
+1. Browned the butter, browning your butter makes your cookies smell like heaven! 
 Set the stove at medium heat & gently heat and stir the butter in mixing pot. 
 Keep watching until it is brown.  
 2. Added brown sugar and mix them well with spoon
@@ -40,7 +40,7 @@ Keep watching until it is brown.
 7. Added some chocolate chip in cookies batter
 8. Divided in to 3 cookies dough and do some decoration with more chocolate! 
 9. Put them in oven at 375F, 12-15 mins
-10. Enjoy fresh baked cookies
+10. Enjoyed fresh baked cookies
 ```
 
 Enjoy!!!
